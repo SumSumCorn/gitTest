@@ -1,0 +1,4 @@
+secrets.yaml
+logs/ # 폴더
+#logs # 파일 & 폴더
+logs.c
